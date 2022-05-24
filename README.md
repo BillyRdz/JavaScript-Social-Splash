@@ -8,7 +8,11 @@ This project showcases the power of Javascript by changing a few simple variable
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript
+**Tech used:**
+
+- HTML
+- CSS
+- JavaScript
 
 I created a data object in Javascript to use and render to the HTML. Creating elements and looping through nodes to create additional nodes. As well as using Javascript to inser the HTML and CSS to show how different aspects of Javascript can be used.
 
@@ -18,17 +22,17 @@ We can update the links to first require an input and update the link src to all
 
 ## Lessons Learned:
 
-Creating Elements with Javascript
-Retrieving Elements by Tagname
-Looping through nodes to create additional nodes
-Create and work with objects in Javascript
+- Creating Elements with Javascript
+- Retrieving Elements by Tagname
+- Looping through nodes to create additional nodes
+- Create and work with objects in Javascript
 
 ## Examples:
 
 Take a look at these couple examples that I have in my own portfolio:
 
-**Mortgify:** https://billyrdz.github.io/Mortgify/
+**Mortgify:** https://github.com/BillyRdz/Mortgify/
 
-**Tesla Landing Page:** https://billyrdz.github.io/Tesla-Scrolling-Landing-Page/
+**Tesla Landing Page:** https://github.com/BillyRdz/Tesla-Scrolling-Landing-Page/
 
-**Simple Desk:** https://va-landingpage.netlify.app/
+**Simple Desk:** https://github.com/BillyRdz/Simple-Desk/
