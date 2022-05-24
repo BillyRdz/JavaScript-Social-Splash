@@ -31,8 +31,8 @@ We can update the links to first require an input and update the link src to all
 
 Take a look at these couple examples that I have in my own portfolio:
 
-**Mortgify:** https://github.com/BillyRdz/Mortgify/
+**Mortgify:** https://github.com/BillyRdz/Mortgify
 
-**Tesla Landing Page:** https://github.com/BillyRdz/Tesla-Scrolling-Landing-Page/
+**Tesla Landing Page:** https://github.com/BillyRdz/Tesla-Scrolling-Landing-Page
 
-**Simple Desk:** https://github.com/BillyRdz/Simple-Desk/
+**Simple Desk:** https://github.com/BillyRdz/Simple-Desk
