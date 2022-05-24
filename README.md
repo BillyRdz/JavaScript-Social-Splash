@@ -2,7 +2,7 @@
 
 This project showcases the power of Javascript by changing a few simple variables changing the styling of the website to unique user endpoints.
 
-**Link to project:** https://billyrdz.github.io/Javascript-Social-Splash/
+**Link to project:** https://billyrdz.github.io/Javascript-Social-Splash
 
 ![alt tag](https://billyrdz.com/wp-content/uploads/2022/05/js-splash-page.png)
 
@@ -35,4 +35,4 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Tesla Landing Page:** https://github.com/BillyRdz/Tesla-Scrolling-Landing-Page
 
-**Simple Desk:** https://github.com/BillyRdz/Simple-Desk
+**AngelList Newsletter Email:** https://github.com/BillyRdz/angellist-newsletter
